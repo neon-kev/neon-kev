@@ -1,10 +1,10 @@
-<div align="center">👋 Hi there!
+<p align="center">👋 Hi there!
 ⚡ Electrician by trade
 🎓 Self-taught programmer | 💻 Curious about how the web works
 💻 HTML & CSS enthusiast
 Currently 🌱 Learning JavaScript
 🌱 Always learning and coding
-</div>
+</p>
 
 
 <!--
