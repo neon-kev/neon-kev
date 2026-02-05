@@ -14,9 +14,8 @@
 
 
 
-
-<p align="center">
   <p align="center">SOCIALS</p>
+<p align="center">
 
   <img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=instagran" /> 
   <!-- Banner GIF -->
