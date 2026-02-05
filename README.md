@@ -14,7 +14,7 @@
 
 <p align="center">
   <!-- Skills / Tech Badges -->
-  <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/HTML2-green?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3" />
     <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
 </p>
