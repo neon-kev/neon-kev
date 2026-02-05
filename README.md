@@ -13,7 +13,8 @@
 </p>
 
 <p align="center">
-  <p>Socials</p>
+  <p align="center">SOCIALS</p>
+
   <img src="https://img.shields.io/badge/HTML-purple?style=for-the-badge&logo=instagran" /> 
   <!-- Banner GIF -->
   <!-- <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Animated Badge" width="150"/> -->
