@@ -50,28 +50,3 @@
 </html>
 
 
-
-<div> 
-  <p align="center";color="green">👋 Hi there!</p>
-<p align="center">⚡ Electrician by trade</p>
-<!-- <img width="300" height="533" alt="Image" src="https://github.com/user-attachments/assets/c938ba26-57a1-4d95-9e16-2d89adc81a3d" /> -->
-<p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
-<p align="center">Currently 🌱 Learning JavaScript</p>
-</div>
-
-
-
-<!--
-**sszn4kevo/sszn4kevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
