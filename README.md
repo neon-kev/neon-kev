@@ -1,4 +1,4 @@
-<p align="center">👋 Hi there!</p>
+<p align="center" color="green">👋 Hi there!</p>
 <p align="center">⚡ Electrician by trade</p>
 <p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
 <p align="center">Currently 🌱 Learning JavaScript</p>
