@@ -5,6 +5,12 @@
 <p align="center">🎓 Self-taught programmer | 💻 HTML & CSS enthusiast</p>
 <p align="center">Currently 🌱 Learning JavaScript</p>
 </div>
+👋 Hi there!
+Electrician by trade
+🎓 Self-taught programmer | 💻 HTML & CSS enthusiast
+Currently 🌱 Learning JavaScript
+
+
 
 <p align="center">
   <!-- Skills / Tech Badges -->
